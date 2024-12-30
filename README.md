@@ -1,0 +1,2 @@
+# SQL_PROJECT_MUSIC_STORE_DATA_ANALYSIS
+Here i have done EDA in SQL 
